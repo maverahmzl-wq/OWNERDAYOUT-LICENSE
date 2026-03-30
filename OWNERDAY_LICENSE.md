@@ -1,3 +1,8 @@
+# OWNERDAY OUT LICENSE v1.0
+<p align="center">
+  <img src="https://github.com/maverahmzl-wq/OWNERDAYOUT-LICENSE/raw/main/odayl.png" width="300">
+</p>
+
 OWNERDAY OUT LICENSE v1.0
 Copyright (c) 2026 [INSERT_NAME_HERE] ([INSERT_TITLE_OR_NICKNAME])
 
