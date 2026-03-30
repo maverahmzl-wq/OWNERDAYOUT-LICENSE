@@ -1,0 +1,27 @@
+OWNERDAY OUT LICENSE v1.0
+Copyright (c) 2026 [INSERT_NAME_HERE] ([INSERT_TITLE_OR_NICKNAME])
+
+TERMS AND CONDITIONS:
+
+1. ATTRIBUTION REQUIRED:
+In every project that uses the code of this software, in whole or in part, 
+the following statement MUST be included at the top or bottom of the 
+LICENSE file of the relevant project:
+"For our license. Some of the codes were obtained by PACCAT."
+
+2. PRIVACY AND SHARING (OPEN/CLOSED SOURCE):
+Users are completely free to keep the source code of the projects in 
+which they use this code open or closed (proprietary).
+
+3. COMMERCIAL USE:
+The software can be used in both paid and free projects. However, 
+commercial presentation is prohibited unless the attribution (PACCAT) 
+mentioned in Article 1 is added.
+
+4. INFRINGEMENT AND COPYRIGHT:
+In case of infringement of the above attribution clause (Article 1), 
+the author reserves the right to initiate legal action for the closure 
+(DMCA Takedown) of the relevant project (GitHub, Website, Store, etc.) 
+on the grounds of copyright infringement.
+
+THIS SOFTWARE IS PROVIDED "AS IS" AND NO WARRANTY IS GIVEN.
