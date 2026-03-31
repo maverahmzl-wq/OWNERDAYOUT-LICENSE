@@ -1,6 +1,6 @@
 # OWNERDAY OUT LICENSE v1.0
 <p align="center">
-  <img src="https://github.com/maverahmzl-wq/OWNERDAYOUT-LICENSE/raw/main/odayl.png" width="300">
+  <img src="https://raw.githubusercontent.com/maverahmzl-wq/OWNERDAYOUT-LICENSE/main/Repaired.png" width="300">
 </p>
 
 OWNERDAY OUT LICENSE v1.0
